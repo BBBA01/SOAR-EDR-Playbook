@@ -20,13 +20,13 @@ In this phase, I set up the Lima Charlie Organization for my project and generat
 
 ![1_sKDigvBp038COeLFpTNugA](https://github.com/user-attachments/assets/fd6586fe-5346-481b-8662-8273a6f2b78c)
 
-Step 3: Install the LaZagne tool to generate telemetry and establish the detection and response rule.
+# Step 3: Install the LaZagne tool to generate telemetry and establish the detection and response rule.
 
 In this step, I installed LaZagne on the host device in Azure and began generating telemetry using PowerShell to determine the necessary items for event detection and response. I was specifically searching for process IDs created by these tools, so I could use that along with the hash for my detection rule. With these elements, I proceeded to create my custom detection rule as follows:
 
 ![1_1cYdYuvXywz_YSrRp-cL-g](https://github.com/user-attachments/assets/1f11c17f-a459-4454-abe4-3706f0dea896)
 
-Step 4: Setup and configure Slack, Tines and test the connections via Lima Charlie and Tines.
+# Step 4: Setup and configure Slack, Tines and test the connections via Lima Charlie and Tines.
 
 In this step, I created my accounts for Slack, Tines and connected them so that we can use the automation workflow for the SOAR component of this project. After connecting them, Tines needed to be connected to Lima Charlie via the API.
 
