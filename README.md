@@ -40,9 +40,9 @@ This final step was the final piece to connect everything to allow for fast isol
 
 # Step6: After connecting the slack, I generated a bunch of alerts to get this going and start seeing a lot of action
 
-![1_iZseDWvAW_evkEAkzCCChQ](https://github.com/user-attachments/assets/dac3b1d7-5a06-4c58-8372-f737c1173a20)
-
 Each of these alerts would be generated and sent via Slack and via email, providing a fast response and detection time in order to respond to the incident.
+
+![1_iZseDWvAW_evkEAkzCCChQ](https://github.com/user-attachments/assets/dac3b1d7-5a06-4c58-8372-f737c1173a20)
 
 # Conclusion:
 
