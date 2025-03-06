@@ -12,7 +12,7 @@ In this project, I employed a range of sophisticated tools. These included Lima 
 
 In this phase, I used Draw.IO to conceptualize the project’s workflow. It is always advisable to begin with a logical design and clear objectives before starting any project, so you can refer to it as needed to confirm everything is functioning as planned.
 
-![Screenshot 2025-03-06 173757](https://github.com/user-attachments/assets/bfec9490-fc29-4342-8ff2-9076c4d7111f)
+![1_TPSNubv8ERkHKj0v3swyQw](https://github.com/user-attachments/assets/7ca0ffa5-e3fb-4b9f-b992-769dc9eb0b05)
 
 # Step 2: Configure and Install Lima Charlie (EDR), create the virtual machine in the cloud resource (Azure), and connect the endpoint to generate events.
 
