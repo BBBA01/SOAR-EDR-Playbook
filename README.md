@@ -14,7 +14,7 @@ In this phase, I used Draw.IO to conceptualize the project’s workflow. It is a
 
 ![1_TPSNubv8ERkHKj0v3swyQw](https://github.com/user-attachments/assets/7ca0ffa5-e3fb-4b9f-b992-769dc9eb0b05)
 
-# Step 2: Configure and Install Lima Charlie (EDR), create the virtual machine in the cloud resource (Azure), and connect the endpoint to generate events
+# Step 2: Configure and Install Lima Charlie (EDR), create the virtual machine in the VMware, and connect the endpoint to generate events
 
 In this phase, I set up the Lima Charlie Organization for my project and generated sensors and keys to link my solution to the endpoint. I created the endpoint using Microsoft Azure by initiating a VM that suited my testing requirements for alerts. Subsequently, I connected the endpoint with the Lima Charlie sensor I had crafted and tested the connection by triggering alerts. For this purpose, I employed Lazagne, an open-source password recovery tool, to produce the alerts.
 
